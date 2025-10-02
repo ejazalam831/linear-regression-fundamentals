@@ -56,3 +56,5 @@ scipy
 - Model optimization involves minimizing prediction errors
 - Real-world applications require balancing accuracy with explainability
 
+## Contributing
+Suggestions and improvements are welcome! Feel free to open an issue or submit a pull request.
